@@ -32,8 +32,8 @@
   
   <script>
   
-    import Header from '../Components/Header.vue'
-    import Sidebar from '../Components/Sidebar.vue'
+  import Header from "@/Components/Header.vue";
+  import Sidebar from "@/Components/Sidebar.vue";
   
     export default {
   

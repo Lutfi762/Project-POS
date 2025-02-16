@@ -10,16 +10,38 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "autoprefixer": "^10.4.20",
         "axios": "^0.25",
+        "browser-sync-webpack-plugin": "^2.3.0",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14",
+        "postcss": "^8.5.2",
+        "tailwindcss": "^4.0.6",
         "vue-loader": "^16.2.0"
     },
     "dependencies": {
         "@inertiajs/inertia": "^0.11.0",
         "@inertiajs/inertia-vue3": "^0.6.0",
         "@inertiajs/progress": "^0.2.7",
+        "browser-sync": "^2.29.3",
         "vue": "^3.2.29"
-    }
+    },
+    "name": "inertia-pos",
+    "version": "1.0.0",
+    "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img src=\"https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg\" width=\"400\"></a></p>",
+    "main": "webpack.mix.js",
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lutfi762/Membangun-Aplikasi-Point-Of-Sales-Kasir-dengan-Laravel-Inertia.js-Vue.js.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Lutfi762/Membangun-Aplikasi-Point-Of-Sales-Kasir-dengan-Laravel-Inertia.js-Vue.js/issues"
+    },
+    "homepage": "https://github.com/Lutfi762/Membangun-Aplikasi-Point-Of-Sales-Kasir-dengan-Laravel-Inertia.js-Vue.js#readme"
 }
